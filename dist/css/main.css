@@ -1,5 +1,12 @@
 header {
   font-family: "Open Sans", sans-serif;
+  display: flex;
+}
+
+.app {
+  max-width: 1150px;
+  margin: 0 auto;
+  color: #4e3d1e;
 }
 
 

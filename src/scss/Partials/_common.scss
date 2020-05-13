@@ -1,3 +1,10 @@
 header {
     font-family: $Open_Sans;
+    display: $Dflex;
+}
+
+.app {
+    max-width: $Max-width;
+    margin: 0 auto;
+    color: $Color-brown;
 }
