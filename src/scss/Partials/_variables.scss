@@ -1,4 +1,19 @@
+// FONT-FAMILY
 $Open_Sans: 'Open Sans', sans-serif;
-$Max-width: 1150px;
-$Color-brown: #4e3d1e;
+
+//LAYOUT MODE
 $Dflex: flex;
+$Max-width: 1150px;
+
+//COLORS
+$primary_bgcolor: #FFF;
+$secondary_bgcolor: #FFE7D2;
+$Color-brown: #4E3D1E;
+$logo-size: 20px;
+
+// MIXIN RULES
+@mixin reset {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

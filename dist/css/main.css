@@ -1,12 +1,13 @@
-header {
-  font-family: "Open Sans", sans-serif;
-  display: flex;
+/************* GENERAL RULES***********************************/
+
+.logo {
+  width: 20px;
 }
 
 .app {
-  max-width: 1150px;
-  margin: 0 auto;
-  color: #4e3d1e;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 
